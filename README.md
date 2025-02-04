@@ -1,4 +1,7 @@
 # BasicWebDesign JarrodSwann
 
-<a href="intro_to_html/index.html">Intro to HTML</a>
-<a href="HTML_intro_to_CSS">Html5 and Intro to CSS</a>
+
+<ul>
+	<li><a href="intro_to_html/index.html">Intro to HTML</a></li>
+	<li><a href="HTML5_Intro_to_CSS">Html5 Intro to CSS</a></li>
+</ul>
