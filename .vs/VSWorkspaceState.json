@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\html_intro_to_css",
-    "\\intro_to_html"
+    "\\advanced_css",
+    "\\advanced_css\\css",
+    "\\advanced_css\\html_intro_to_css\\.vs"
   ],
-  "SelectedNode": "\\html_intro_to_css\\Index.html",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }
