@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Jarrod\\Documents\\GitHub\\BasicWebDesign\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jarrod\\Documents\\GitHub\\BasicWebDesign\\advanced_css\\branches.html||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:advanced_css\\branches.html||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jarrod\\Documents\\GitHub\\BasicWebDesign\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jarrod\\Documents\\GitHub\\BasicWebDesign\\advanced_css\\css\\styles.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:advanced_css\\css\\styles.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jarrod\\Documents\\GitHub\\BasicWebDesign\\advanced_css\\branches.html||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:advanced_css\\branches.html||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jarrod\\Documents\\GitHub\\BasicWebDesign\\advanced_css\\about.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:advanced_css\\about.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jarrod\\Documents\\GitHub\\BasicWebDesign\\advanced_css\\Index.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:advanced_css\\Index.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Jarrod\\Documents\\GitHub\\BasicWebDesign\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Jarrod\\Documents\\GitHub\\BasicWebDesign\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-10T20:15:44.164Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -36,33 +57,46 @@
               "RelativeDocumentMoniker": "advanced_css\\css\\styles.css",
               "ToolTip": "C:\\Users\\Jarrod\\Documents\\GitHub\\BasicWebDesign\\advanced_css\\css\\styles.css",
               "RelativeToolTip": "advanced_css\\css\\styles.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-02-10T18:30:52.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "Index.html",
+              "DocumentMoniker": "C:\\Users\\Jarrod\\Documents\\GitHub\\BasicWebDesign\\advanced_css\\Index.html",
+              "RelativeDocumentMoniker": "advanced_css\\Index.html",
+              "ToolTip": "C:\\Users\\Jarrod\\Documents\\GitHub\\BasicWebDesign\\advanced_css\\Index.html",
+              "RelativeToolTip": "advanced_css\\Index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-10T18:50:20.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "about.html",
               "DocumentMoniker": "C:\\Users\\Jarrod\\Documents\\GitHub\\BasicWebDesign\\advanced_css\\about.html",
               "RelativeDocumentMoniker": "advanced_css\\about.html",
               "ToolTip": "C:\\Users\\Jarrod\\Documents\\GitHub\\BasicWebDesign\\advanced_css\\about.html",
               "RelativeToolTip": "advanced_css\\about.html",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-02-10T18:18:17.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "branches.html",
               "DocumentMoniker": "C:\\Users\\Jarrod\\Documents\\GitHub\\BasicWebDesign\\advanced_css\\branches.html",
               "RelativeDocumentMoniker": "advanced_css\\branches.html",
               "ToolTip": "C:\\Users\\Jarrod\\Documents\\GitHub\\BasicWebDesign\\advanced_css\\branches.html",
               "RelativeToolTip": "advanced_css\\branches.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-02-10T18:18:04.647Z",
               "EditorCaption": ""
