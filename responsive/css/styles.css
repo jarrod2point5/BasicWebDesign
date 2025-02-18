@@ -1,0 +1,159 @@
+/* Global Styles*/
+
+body {
+	background-color: #593431;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	width: 100%
+}
+#container{
+	background-color:#F2E1C2;
+
+}
+
+/* Mobile Styles*/
+@media (min-width: 320px) {
+ nav {
+	 background-color:#F2E1C2;
+	 padding: 5px;
+	 margin-top: 5px;
+	 text-align: center;
+ }
+}
+nav ul{
+list-style-type: none;
+padding: 0;
+margin: 0;
+overflow: hidden;
+
+
+}
+nav li{
+	display: ;
+
+}
+nav li a{
+	display: block;
+	height: 30px;
+	line-height: 40px;
+	font-size: 22px;
+	margin-top: 5px;
+	background-color: #131A13;
+	color: navajowhite;
+	text-decoration: none;
+	text-align: center;	
+
+}
+nav li a:hover{
+	background-color: #F2E1C2;
+	color: #131A13;
+	;
+}
+main{
+		padding: 20px;
+
+}
+h1, h2 , h3{
+	text-align: center;
+	color: #131A13;
+}
+footer{
+		text-align: center;
+	padding: 20px;
+}
+
+
+
+/* Tablet Styles*/
+@media (min-width: 768px) {
+	#container{
+		width: 80%;
+		margin: 20px auto;
+	
+	}
+	nav{
+		padding: 0px;
+		display: inline;
+	}
+	nav li{
+		display: inline-block;
+	}
+	nav li a{
+		background-color: #131A13;
+		width: 176px;
+		line-height: 50px;
+		height: 50px;
+		color: navajowhite;
+	
+		
+	}
+	.one{
+		width: 75%;
+		height: auto;	
+
+	}
+}
+
+
+
+
+
+
+
+
+/* Desktop Styles*/
+@media (min-width: 1024px) {
+	#container{
+		width: 65%;
+		margin: 20px auto;
+		border: 20px solid #131A13 ;	
+		border-radius: 20px;
+		container-type: inline-size;
+	
+
+	}
+	#container > p{
+		font-size: 19cqi;
+	}
+	nav{
+		margin: 0px;
+		display: inline;
+		
+	}
+	nav li a{
+		background-color: #131A13;
+		width: 246.7px;
+		line-height: 50px;
+		height: 50px;
+		
+	}
+	hr: display: none;
+	
+	
+#multi_col{
+			column-count: 2;
+		column-gap: 20px;
+	}
+	#col1{
+				float: left;
+		width: 50%;
+		
+		
+	
+		
+	}
+	#col2{
+				float: right;
+		width: 50%;
+	
+	}
+	.wow {
+		width:50%;
+		height: auto;
+		padding: 20px;
+	}
+		
+	
