@@ -23,7 +23,7 @@ img {
 	 text-align: center;
  }
 }
-nav ul{
+nav ul {
 list-style-type: none;
 padding: 0;
 margin: 0;
@@ -31,10 +31,7 @@ overflow: hidden;
 
 
 }
-nav li{
-	display: ;
 
-}
 nav li a{
 	display: block;
 	height: 30px;
@@ -50,7 +47,7 @@ nav li a{
 nav li a:hover{
 	background-color: #F2E1C2;
 	color: #131A13;
-	;
+	
 }
 main{
 		padding: 20px;
@@ -111,12 +108,11 @@ footer{
 		margin: 20px auto;
 		border: 20px solid #131A13 ;	
 		border-radius: 20px;
-		container-type: inline-size;
+		
 	
 
 	}
-	#container > p{
-		font-size: 19cqi;
+	
 	}
 	nav{
 		margin: 0px;
@@ -130,26 +126,11 @@ footer{
 		height: 50px;
 		
 	}
-	hr: display: none;
-	
-	
-#multi_col{
-			column-count: 2;
-		column-gap: 20px;
+	hr { display: none;
 	}
-	#col1{
-				float: left;
-		width: 50%;
-		
-		
 	
-		
-	}
-	#col2{
-				float: right;
-		width: 50%;
 	
-	}
+
 	.wow {
 		width:50%;
 		height: auto;
